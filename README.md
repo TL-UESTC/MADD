@@ -9,7 +9,7 @@ Cross-domain recommendation aims to exploit heterogeneous information from a dat
 
 
 
-## Environments
+## Environment
 
 ```pip install -r requirements.txt```
 
@@ -35,7 +35,7 @@ Cross-domain recommendation aims to exploit heterogeneous information from a dat
 
   ```python evaluate.py --domainA book --domainB movie --size 128 --GPU 0 --evatsne```
 
-## Citations
+## Citation
 
 If you want to use our code or dataset, you should cite the following paper in your submissions.
 
