@@ -39,9 +39,12 @@ Cross-domain recommendation aims to exploit heterogeneous information from a dat
 
 If you want to use our code or dataset, you should cite the following paper in your submissions.
 
-> @article{zhangmulti,
-> 	title={Multi-Level Attention-Based Domain Disentanglement for Bidirectional Cross-Domain Recommendation},
-> 	author={Zhang, Xinyue and Li, Jingjing and Su, Hongzu and Zhu, Lei and Shen, Heng Tao},
-> 	journal={ACM Transactions on Information Systems},
-> 	publisher={ACM New York, NY}
-> }
+```tex
+@article{zhangmulti,
+	title={Multi-Level Attention-Based Domain Disentanglement for Bidirectional Cross-Domain Recommendation},
+	author={Zhang, Xinyue and Li, Jingjing and Su, Hongzu and Zhu, Lei and Shen, Heng Tao},
+	journal={ACM Transactions on Information Systems},
+	publisher={ACM New York, NY}
+}
+```
+
